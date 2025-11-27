@@ -1,0 +1,402 @@
+event_id,date,time,currency,event,actual,forecast,previous
+150946,2025-11-25,4:30pm,USD,Core PPI m/m,0.1%,0.2%,-0.1%
+150950,2025-11-25,All Day,USD,Core Retail Sales m/m,0.3%,0.3%,0.6%
+150945,2025-11-25,All Day,USD,PPI m/m,0.3%,0.3%,-0.1%
+150951,2025-11-25,All Day,USD,Retail Sales m/m,0.2%,0.4%,0.6%
+144091,2025-11-26,3:30am,AUD,CPI y/y,3.8%,3.6%,3.5%
+141370,2025-11-26,4:00am,NZD,Official Cash Rate,2.25%,2.25%,2.50%
+141381,2025-11-26,All Day,NZD,RBNZ Monetary Policy Statement,,,
+141377,2025-11-26,All Day,NZD,RBNZ Rate Statement,,,
+141385,2025-11-26,5:00am,NZD,RBNZ Press Conference,,,
+143323,2025-11-26,3:30pm,GBP,Autumn Forecast Statement,,,
+141477,2025-11-26,4:30pm,USD,Unemployment Claims,216K,226K,222K
+144966,2025-11-28,4:30pm,CAD,GDP m/m,,0.2%,-0.3%
+145130,2025-11-17,4:30pm,CAD,CPI m/m,0.2%,0.2%,0.1%
+145174,2025-11-17,All Day,CAD,Median CPI y/y,2.9%,3.1%,3.1%
+145175,2025-11-17,All Day,CAD,Trimmed CPI y/y,3.0%,3.0%,3.1%
+150895,2025-11-18,11:10am,USD,Unemployment Claims,232K,,220K
+141628,2025-11-19,3:30am,AUD,Wage Price Index q/q,0.8%,0.8%,0.8%
+143627,2025-11-19,10:00am,GBP,CPI y/y,3.6%,3.5%,3.8%
+141242,2025-11-19,10:00pm,USD,FOMC Meeting Minutes,,,
+150886,2025-11-20,All Day,USD,Average Hourly Earnings m/m,0.2%,0.3%,0.3%
+150885,2025-11-20,All Day,USD,Non-Farm Employment Change,119K,53K,-4K
+150972,2025-11-20,All Day,USD,Unemployment Claims,220K,227K,228K
+150884,2025-11-20,All Day,USD,Unemployment Rate,4.4%,4.3%,4.3%
+143674,2025-11-21,10:00am,GBP,Retail Sales m/m,-1.1%,-0.1%,0.7%
+142221,2025-11-21,11:30am,EUR,German Flash Manufacturing PMI,48.4,49.8,49.6
+142222,2025-11-21,All Day,EUR,German Flash Services PMI,52.7,54.0,54.6
+142219,2025-11-21,12:30pm,GBP,Flash Manufacturing PMI,50.2,49.3,49.7
+142220,2025-11-21,All Day,GBP,Flash Services PMI,50.5,51.9,52.3
+143937,2025-11-21,5:45pm,USD,Flash Manufacturing PMI,51.9,52.0,52.5
+143949,2025-11-21,All Day,USD,Flash Services PMI,55.0,54.6,54.8
+143812,2025-11-11,10:00am,GBP,Claimant Count Change,29.0K,17.6K,0.4K
+144166,2025-11-13,3:30am,AUD,Employment Change,42.2K,20.0K,12.8K
+144178,2025-11-13,All Day,AUD,Unemployment Rate,4.3%,4.4%,4.5%
+143749,2025-11-13,10:00am,GBP,GDP m/m,-0.1%,0.0%,0.0%
+140738,2025-11-03,10:30am,CHF,CPI m/m,-0.3%,-0.1%,-0.2%
+141145,2025-11-03,6:00pm,USD,ISM Manufacturing PMI,48.7,49.4,49.1
+149984,2025-11-03,9:30pm,CAD,BOC Gov Macklem Speaks,,,
+141343,2025-11-04,6:30am,AUD,Cash Rate,3.60%,3.60%,3.60%
+144901,2025-11-04,All Day,AUD,RBA Monetary Policy Statement,,,
+141351,2025-11-04,All Day,AUD,RBA Rate Statement,,,
+141359,2025-11-04,7:30am,AUD,RBA Press Conference,,,
+141743,2025-11-05,12:45am,NZD,Employment Change q/q,0.0%,0.1%,-0.2%
+141747,2025-11-05,All Day,NZD,Unemployment Rate,5.3%,5.3%,5.2%
+142729,2025-11-05,4:15pm,USD,ADP Non-Farm Employment Change,42K,32K,-29K
+141168,2025-11-05,6:00pm,USD,ISM Services PMI,52.4,50.7,50.0
+150017,2025-11-06,12:30am,CAD,BOC Gov Macklem Speaks,,,
+143366,2025-11-06,3:00pm,GBP,BOE Monetary Policy Report,,,
+143364,2025-11-06,All Day,GBP,Monetary Policy Summary,,,
+143365,2025-11-06,All Day,GBP,MPC Official Bank Rate Votes,0-4-5,0-3-6,0-2-7
+143363,2025-11-06,All Day,GBP,Official Bank Rate,4.00%,4.00%,4.00%
+149996,2025-11-06,All Day,GBP,BOE Gov Bailey Speaks,,,
+150018,2025-11-06,6:30pm,CAD,BOC Gov Macklem Speaks,,,
+144978,2025-11-07,4:30pm,CAD,Employment Change,66.6K,-5.0K,60.4K
+144990,2025-11-07,All Day,CAD,Unemployment Rate,6.9%,7.1%,7.1%
+148823,2025-10-27,11:15am,AUD,RBA Gov Bullock Speaks,,,
+141632,2025-10-29,3:30am,AUD,CPI q/q,1.3%,1.1%,0.7%
+144090,2025-10-29,All Day,AUD,CPI y/y,3.5%,3.1%,3.0%
+141636,2025-10-29,All Day,AUD,Trimmed Mean CPI q/q,1.0%,0.8%,0.6%
+141398,2025-10-29,4:45pm,CAD,BOC Monetary Policy Report,,,
+141404,2025-10-29,All Day,CAD,BOC Rate Statement,,,
+141392,2025-10-29,All Day,CAD,Overnight Rate,2.25%,2.25%,2.50%
+141409,2025-10-29,5:30pm,CAD,BOC Press Conference,,,
+141213,2025-10-29,9:00pm,USD,Federal Funds Rate,4.00%,4.00%,4.25%
+141221,2025-10-29,All Day,USD,FOMC Statement,,,
+141229,2025-10-29,9:30pm,USD,FOMC Press Conference,,,
+144316,2025-10-30,6:15am,JPY,BOJ Outlook Report,,,
+144317,2025-10-30,All Day,JPY,BOJ Policy Rate,<0.50%,<0.50%,<0.50%
+144318,2025-10-30,All Day,JPY,Monetary Policy Statement,,,
+144319,2025-10-30,All Day,JPY,BOJ Press Conference,,,
+142942,2025-10-30,4:15pm,EUR,Main Refinancing Rate,2.15%,2.15%,2.15%
+142943,2025-10-30,All Day,EUR,Monetary Policy Statement,,,
+142941,2025-10-30,4:45pm,EUR,ECB Press Conference,,,
+140686,2025-10-31,4:30am,CNY,Manufacturing PMI,49.0,49.6,49.8
+144965,2025-10-31,3:30pm,CAD,GDP m/m,-0.3%,0.0%,0.3%
+144854,2025-10-20,12:45am,NZD,CPI q/q,1.0%,0.8%,0.5%
+145129,2025-10-21,3:30pm,CAD,CPI m/m,0.1%,-0.1%,-0.1%
+145170,2025-10-21,All Day,CAD,Median CPI y/y,3.2%,3.0%,3.2%
+145171,2025-10-21,All Day,CAD,Trimmed CPI y/y,3.1%,3.0%,3.0%
+143621,2025-10-22,9:00am,GBP,CPI y/y,3.8%,4.0%,3.8%
+142215,2025-10-24,10:30am,EUR,German Flash Manufacturing PMI,49.6,49.5,49.5
+142216,2025-10-24,All Day,EUR,German Flash Services PMI,54.5,51.1,51.5
+142217,2025-10-24,11:30am,GBP,Flash Manufacturing PMI,49.6,46.6,46.2
+142218,2025-10-24,All Day,GBP,Flash Services PMI,51.1,51.0,50.8
+142664,2025-10-24,All Day,USD,Core CPI m/m,0.2%,0.3%,0.3%
+142640,2025-10-24,All Day,USD,CPI m/m,0.3%,0.4%,0.4%
+142652,2025-10-24,All Day,USD,CPI y/y,3.0%,3.1%,2.9%
+143936,2025-10-24,4:45pm,USD,Flash Manufacturing PMI,52.2,51.9,52.0
+143948,2025-10-24,All Day,USD,Flash Services PMI,55.2,53.5,54.2
+148463,2025-10-14,7:20pm,USD,Fed Chair Powell Speaks,,,
+148464,2025-10-14,8:00pm,GBP,BOE Gov Bailey Speaks,,,
+148472,2025-10-15,10:45pm,AUD,RBA Gov Bullock Speaks,,,
+144165,2025-10-16,3:30am,AUD,Employment Change,14.9K,20.5K,-11.9K
+144177,2025-10-16,All Day,AUD,Unemployment Rate,4.5%,4.3%,4.3%
+143743,2025-10-16,9:00am,GBP,GDP m/m,0.1%,0.1%,-0.1%
+148487,2025-10-16,8:30pm,CAD,BOC Gov Macklem Speaks,,,
+148485,2025-10-18,All Day,GBP,BOE Gov Bailey Speaks,,,
+147988,2025-10-06,6:00pm,GBP,BOE Gov Bailey Speaks,,,
+147990,2025-10-06,8:00pm,EUR,ECB President Lagarde Speaks,,,
+141369,2025-10-08,4:00am,NZD,Official Cash Rate,2.50%,2.75%,3.00%
+141376,2025-10-08,All Day,NZD,RBNZ Rate Statement,,,
+141241,2025-10-08,9:00pm,USD,FOMC Meeting Minutes,,,
+148000,2025-10-10,1:00am,AUD,RBA Gov Bullock Speaks,,,
+144977,2025-10-10,3:30pm,CAD,Employment Change,60.4K,2.8K,-65.5K
+144989,2025-10-10,All Day,CAD,Unemployment Rate,7.1%,7.2%,7.1%
+141273,2025-10-10,5:00pm,USD,Prelim UoM Consumer Sentiment,55.0,54.1,55.1
+141274,2025-10-10,All Day,USD,Prelim UoM Inflation Expectations,4.6%,,4.7%
+140684,2025-09-30,All Day,CNY,Manufacturing PMI,49.8,49.6,49.4
+141342,2025-09-30,7:30am,AUD,Cash Rate,3.60%,3.60%,3.60%
+141350,2025-09-30,All Day,AUD,RBA Rate Statement,,,
+141358,2025-09-30,8:30am,AUD,RBA Press Conference,,,
+143900,2025-09-30,5:00pm,USD,JOLTS Job Openings,7.23M,7.19M,7.21M
+142728,2025-10-01,3:15pm,USD,ADP Non-Farm Employment Change,-32K,52K,-3K
+141143,2025-10-01,5:00pm,USD,ISM Manufacturing PMI,49.1,49.0,48.7
+140737,2025-10-02,9:30am,CHF,CPI m/m,-0.2%,-0.2%,-0.1%
+147867,2025-10-03,4:05am,JPY,BOJ Gov Ueda Speaks,,,
+147862,2025-10-03,4:20pm,GBP,BOE Gov Bailey Speaks,,,
+141167,2025-10-03,5:00pm,USD,ISM Services PMI,50.0,51.8,52.0
+147812,2025-09-22,4:00am,AUD,RBA Gov Bullock Speaks,,,
+142209,2025-09-23,10:30am,EUR,German Flash Manufacturing PMI,48.5,50.0,48.8
+142210,2025-09-23,All Day,EUR,German Flash Services PMI,52.5,49.5,49.3
+142212,2025-09-23,11:30am,GBP,Flash Manufacturing PMI,46.2,47.1,47.0
+142211,2025-09-23,All Day,GBP,Flash Services PMI,51.9,53.4,54.2
+143935,2025-09-23,4:45pm,USD,Flash Manufacturing PMI,52.0,52.2,53.0
+143947,2025-09-23,All Day,USD,Flash Services PMI,53.9,54.0,54.5
+147836,2025-09-23,7:35pm,USD,Fed Chair Powell Speaks,,,
+147843,2025-09-23,9:15pm,CAD,BOC Gov Macklem Speaks,,,
+144089,2025-09-24,4:30am,AUD,CPI y/y,3.0%,2.9%,2.8%
+140839,2025-09-25,10:30am,CHF,SNB Monetary Policy Assessment,,,
+140840,2025-09-25,All Day,CHF,SNB Policy Rate,0.00%,0.00%,0.00%
+140841,2025-09-25,11:00am,CHF,SNB Press Conference,,,
+142551,2025-09-25,3:30pm,USD,Final GDP q/q,3.8%,3.3%,3.3%
+141468,2025-09-25,All Day,USD,Unemployment Claims,218K,233K,232K
+144964,2025-09-26,3:30pm,CAD,GDP m/m,0.2%,0.1%,-0.1%
+142513,2025-09-26,All Day,USD,Core PCE Price Index m/m,0.2%,0.2%,0.2%
+145128,2025-09-16,3:30pm,CAD,CPI m/m,-0.1%,0.0%,0.3%
+145166,2025-09-16,All Day,CAD,Median CPI y/y,3.1%,3.1%,3.1%
+145167,2025-09-16,All Day,CAD,Trimmed CPI y/y,3.0%,3.0%,3.1%
+142351,2025-09-16,All Day,USD,Core Retail Sales m/m,0.7%,0.4%,0.4%
+142341,2025-09-16,All Day,USD,Retail Sales m/m,0.6%,0.2%,0.6%
+143615,2025-09-17,9:00am,GBP,CPI y/y,3.8%,3.8%,3.8%
+141403,2025-09-17,4:45pm,CAD,BOC Rate Statement,,,
+141391,2025-09-17,All Day,CAD,Overnight Rate,2.50%,2.50%,2.75%
+141412,2025-09-17,5:30pm,CAD,BOC Press Conference,,,
+141212,2025-09-17,9:00pm,USD,Federal Funds Rate,4.25%,4.25%,4.50%
+141233,2025-09-17,All Day,USD,FOMC Economic Projections,,,
+141220,2025-09-17,All Day,USD,FOMC Statement,,,
+141228,2025-09-17,9:30pm,USD,FOMC Press Conference,,,
+144813,2025-09-18,1:45am,NZD,GDP q/q,-0.9%,-0.3%,0.9%
+144164,2025-09-18,4:30am,AUD,Employment Change,-5.4K,21.2K,26.5K
+144176,2025-09-18,All Day,AUD,Unemployment Rate,4.2%,4.2%,4.2%
+143361,2025-09-18,2:00pm,GBP,Monetary Policy Summary,,,
+143362,2025-09-18,All Day,GBP,MPC Official Bank Rate Votes,0-2-7,0-1-8,0-5-4
+143360,2025-09-18,All Day,GBP,Official Bank Rate,4.00%,4.00%,4.00%
+141467,2025-09-18,3:30pm,USD,Unemployment Claims,231K,241K,264K
+144314,2025-09-19,6:47am,JPY,BOJ Policy Rate,<0.50%,<0.50%,<0.50%
+144315,2025-09-19,All Day,JPY,Monetary Policy Statement,,,
+144313,2025-09-19,9:30am,JPY,BOJ Press Conference,,,
+147811,2025-09-09,5:00pm,USD,Prelim Benchmark Payrolls Revision,-911K,,-818K
+142627,2025-09-10,3:30pm,USD,Core PPI m/m,-0.1%,0.3%,0.7%
+142615,2025-09-10,All Day,USD,PPI m/m,-0.1%,0.3%,0.7%
+146864,2025-09-11,2:15am,NZD,RBNZ Gov Hawkesby Speaks,,,
+142938,2025-09-11,3:15pm,EUR,Main Refinancing Rate,2.15%,2.15%,2.15%
+142940,2025-09-11,All Day,EUR,Monetary Policy Statement,,,
+142663,2025-09-11,3:30pm,USD,Core CPI m/m,0.3%,0.3%,0.3%
+142639,2025-09-11,All Day,USD,CPI m/m,0.4%,0.3%,0.2%
+142651,2025-09-11,All Day,USD,CPI y/y,2.9%,2.9%,2.7%
+141466,2025-09-11,All Day,USD,Unemployment Claims,263K,235K,236K
+142939,2025-09-11,3:45pm,EUR,ECB Press Conference,,,
+143737,2025-09-12,All Day,GBP,GDP m/m,0.0%,0.0%,0.4%
+141271,2025-09-12,5:00pm,USD,Prelim UoM Consumer Sentiment,55.4,58.2,58.2
+141272,2025-09-12,All Day,USD,Prelim UoM Inflation Expectations,4.8%,,4.8%
+141142,2025-09-02,All Day,USD,ISM Manufacturing PMI,48.7,49.0,48.0
+141619,2025-09-03,4:30am,AUD,GDP q/q,0.6%,0.5%,0.3%
+146456,2025-09-03,11:00am,AUD,RBA Gov Bullock Speaks,,,
+146463,2025-09-03,4:15pm,GBP,Monetary Policy Report Hearings,,,
+143899,2025-09-03,5:00pm,USD,JOLTS Job Openings,7.18M,7.38M,7.36M
+140736,2025-09-04,9:30am,CHF,CPI m/m,-0.1%,0.0%,0.0%
+142727,2025-09-04,3:15pm,USD,ADP Non-Farm Employment Change,54K,73K,106K
+141465,2025-09-04,All Day,USD,Unemployment Claims,237K,230K,229K
+141166,2025-09-04,5:00pm,USD,ISM Services PMI,52.0,50.9,50.1
+144976,2025-09-05,3:30pm,CAD,Employment Change,-65.5K,4.9K,-40.8K
+144988,2025-09-05,All Day,CAD,Unemployment Rate,7.1%,7.0%,6.9%
+142597,2025-09-05,All Day,USD,Average Hourly Earnings m/m,0.3%,0.3%,0.3%
+142573,2025-09-05,All Day,USD,Non-Farm Employment Change,22K,75K,79K
+142585,2025-09-05,All Day,USD,Unemployment Rate,4.3%,4.3%,4.2%
+146405,2025-08-26,9:30pm,CAD,BOC Gov Macklem Speaks,,,
+144088,2025-08-27,4:30am,AUD,CPI y/y,2.8%,2.3%,1.9%
+142559,2025-08-28,All Day,USD,Prelim GDP q/q,3.3%,3.1%,3.0%
+141464,2025-08-28,All Day,USD,Unemployment Claims,229K,231K,234K
+144963,2025-08-29,3:30pm,CAD,GDP m/m,-0.1%,0.1%,-0.1%
+142512,2025-08-29,All Day,USD,Core PCE Price Index m/m,0.3%,0.3%,0.3%
+140668,2025-08-31,4:30am,CNY,Manufacturing PMI,49.4,49.5,49.3
+145127,2025-08-19,3:30pm,CAD,CPI m/m,0.3%,0.3%,0.1%
+145162,2025-08-19,All Day,CAD,Median CPI y/y,3.1%,3.1%,3.0%
+145163,2025-08-19,All Day,CAD,Trimmed CPI y/y,3.0%,3.0%,3.0%
+141368,2025-08-20,All Day,NZD,Official Cash Rate,3.00%,3.00%,3.25%
+141380,2025-08-20,All Day,NZD,RBNZ Monetary Policy Statement,,,
+141375,2025-08-20,All Day,NZD,RBNZ Rate Statement,,,
+141384,2025-08-20,6:00am,NZD,RBNZ Press Conference,,,
+143609,2025-08-20,All Day,GBP,CPI y/y,3.8%,3.7%,3.6%
+141240,2025-08-20,9:00pm,USD,FOMC Meeting Minutes,,,
+142203,2025-08-21,10:30am,EUR,German Flash Manufacturing PMI,49.9,48.8,49.1
+142204,2025-08-21,All Day,EUR,German Flash Services PMI,50.1,50.4,50.6
+142202,2025-08-21,11:30am,GBP,Flash Manufacturing PMI,47.3,48.2,48.0
+142201,2025-08-21,All Day,GBP,Flash Services PMI,53.6,51.8,51.8
+141463,2025-08-21,All Day,USD,Unemployment Claims,235K,226K,224K
+143934,2025-08-21,4:45pm,USD,Flash Manufacturing PMI,53.3,49.7,49.8
+143946,2025-08-21,All Day,USD,Flash Services PMI,55.4,54.2,55.7
+146385,2025-08-22,5:00pm,USD,Fed Chair Powell Speaks,,,
+143952,2025-08-22,Day 2,All,Jackson Hole Symposium,,,
+146404,2025-08-22,8:05pm,USD,President Trump Speaks,,,
+146386,2025-08-23,7:25pm,EUR,ECB President Lagarde Speaks,,,
+146367,2025-08-23,All Day,GBP,BOE Gov Bailey Speaks,,,
+146403,2025-08-23,All Day,JPY,BOJ Gov Ueda Speaks,,,
+141341,2025-08-12,7:30am,AUD,Cash Rate,3.60%,3.60%,3.85%
+144900,2025-08-12,All Day,AUD,RBA Monetary Policy Statement,,,
+141349,2025-08-12,All Day,AUD,RBA Rate Statement,,,
+141357,2025-08-12,8:30am,AUD,RBA Press Conference,,,
+142662,2025-08-12,All Day,USD,Core CPI m/m,0.3%,0.3%,0.2%
+142638,2025-08-12,All Day,USD,CPI m/m,0.2%,0.2%,0.3%
+142650,2025-08-12,All Day,USD,CPI y/y,2.7%,2.8%,2.7%
+141627,2025-08-13,4:30am,AUD,Wage Price Index q/q,0.8%,0.8%,0.9%
+144163,2025-08-14,4:30am,AUD,Employment Change,24.5K,25.3K,1.0K
+144175,2025-08-14,All Day,AUD,Unemployment Rate,4.2%,4.2%,4.3%
+143732,2025-08-14,9:00am,GBP,GDP m/m,0.4%,0.2%,-0.1%
+142626,2025-08-14,3:30pm,USD,Core PPI m/m,0.9%,0.2%,0.0%
+142614,2025-08-14,All Day,USD,PPI m/m,0.9%,0.2%,0.0%
+141462,2025-08-14,All Day,USD,Unemployment Claims,224K,225K,227K
+142352,2025-08-15,All Day,USD,Core Retail Sales m/m,0.3%,0.3%,0.8%
+142340,2025-08-15,All Day,USD,Retail Sales m/m,0.5%,0.6%,0.9%
+141269,2025-08-15,5:00pm,USD,Prelim UoM Consumer Sentiment,58.6,61.9,61.7
+141270,2025-08-15,All Day,USD,Prelim UoM Inflation Expectations,4.9%,,4.5%
+146384,2025-08-16,1:55am,USD,President Trump Speaks,,,
+140735,2025-08-04,9:30am,CHF,CPI m/m,0.0%,-0.2%,0.2%
+141165,2025-08-05,5:00pm,USD,ISM Services PMI,50.1,51.5,50.8
+141742,2025-08-06,1:45am,NZD,Employment Change q/q,-0.1%,-0.1%,0.0%
+141746,2025-08-06,All Day,NZD,Unemployment Rate,5.2%,5.3%,5.1%
+143357,2025-08-07,2:00pm,GBP,BOE Monetary Policy Report,,,
+143358,2025-08-07,All Day,GBP,Monetary Policy Summary,,,
+143359,2025-08-07,All Day,GBP,MPC Official Bank Rate Votes,0-5-4,0-8-1,0-3-6
+143356,2025-08-07,All Day,GBP,Official Bank Rate,4.00%,4.00%,4.25%
+146356,2025-08-07,2:30pm,GBP,BOE Gov Bailey Speaks,,,
+141461,2025-08-07,3:30pm,USD,Unemployment Claims,226K,221K,219K
+144975,2025-08-08,3:30pm,CAD,Employment Change,-40.8K,15.3K,83.1K
+144987,2025-08-08,All Day,CAD,Unemployment Rate,6.9%,7.0%,6.9%
+143898,2025-07-29,5:00pm,USD,JOLTS Job Openings,7.44M,7.51M,7.71M
+141631,2025-07-30,4:30am,AUD,CPI q/q,0.7%,0.8%,0.9%
+144087,2025-07-30,All Day,AUD,CPI y/y,1.9%,2.1%,2.1%
+141635,2025-07-30,All Day,AUD,Trimmed Mean CPI q/q,0.6%,0.7%,0.7%
+143857,2025-07-30,All Day,EUR,German Prelim GDP q/q,-0.1%,-0.1%,0.4%
+142726,2025-07-30,3:15pm,USD,ADP Non-Farm Employment Change,104K,77K,-23K
+142543,2025-07-30,3:30pm,USD,Advance GDP q/q,3.0%,2.5%,-0.5%
+141397,2025-07-30,4:45pm,CAD,BOC Monetary Policy Report,,,
+141402,2025-07-30,All Day,CAD,BOC Rate Statement,,,
+141390,2025-07-30,All Day,CAD,Overnight Rate,2.75%,2.75%,2.75%
+141408,2025-07-30,5:30pm,CAD,BOC Press Conference,,,
+141211,2025-07-30,9:00pm,USD,Federal Funds Rate,4.50%,4.50%,4.50%
+141219,2025-07-30,All Day,USD,FOMC Statement,,,
+141227,2025-07-30,9:30pm,USD,FOMC Press Conference,,,
+140660,2025-07-31,All Day,CNY,Manufacturing PMI,49.3,49.7,49.7
+144311,2025-07-31,5:57am,JPY,BOJ Outlook Report,,,
+144310,2025-07-31,All Day,JPY,BOJ Policy Rate,<0.50%,<0.50%,<0.50%
+144312,2025-07-31,All Day,JPY,Monetary Policy Statement,,,
+144309,2025-07-31,All Day,JPY,BOJ Press Conference,,,
+144962,2025-07-31,3:30pm,CAD,GDP m/m,-0.1%,-0.1%,-0.1%
+142511,2025-07-31,All Day,USD,Core PCE Price Index m/m,0.3%,0.3%,0.2%
+142603,2025-07-31,All Day,USD,Employment Cost Index q/q,0.9%,0.8%,0.9%
+141460,2025-07-31,All Day,USD,Unemployment Claims,218K,222K,217K
+142596,2025-08-01,3:30pm,USD,Average Hourly Earnings m/m,0.3%,0.3%,0.2%
+142572,2025-08-01,All Day,USD,Non-Farm Employment Change,73K,106K,14K
+142584,2025-08-01,All Day,USD,Unemployment Rate,4.2%,4.2%,4.1%
+141141,2025-08-01,5:00pm,USD,ISM Manufacturing PMI,48.0,49.5,49.0
+144853,2025-07-21,1:45am,NZD,CPI q/q,0.5%,0.6%,0.9%
+146334,2025-07-22,12:15pm,GBP,BOE Gov Bailey Speaks,,,
+146330,2025-07-24,6:05am,AUD,RBA Gov Bullock Speaks,,,
+141057,2025-07-24,10:15am,EUR,French Flash Manufacturing PMI,48.4,48.5,48.1
+141058,2025-07-24,All Day,EUR,French Flash Services PMI,49.7,49.7,49.6
+142193,2025-07-24,10:30am,EUR,German Flash Manufacturing PMI,49.2,49.4,49.0
+142194,2025-07-24,All Day,EUR,German Flash Services PMI,50.1,50.0,49.7
+142197,2025-07-24,11:30am,GBP,Flash Manufacturing PMI,48.2,47.9,47.7
+142198,2025-07-24,All Day,GBP,Flash Services PMI,51.2,52.8,52.8
+142935,2025-07-24,3:15pm,EUR,Main Refinancing Rate,2.15%,2.15%,2.15%
+142936,2025-07-24,All Day,EUR,Monetary Policy Statement,,,
+141459,2025-07-24,All Day,USD,Unemployment Claims,217K,227K,221K
+142937,2025-07-24,3:45pm,EUR,ECB Press Conference,,,
+143933,2025-07-24,4:45pm,USD,Flash Manufacturing PMI,49.5,52.7,52.9
+143945,2025-07-24,All Day,USD,Flash Services PMI,55.2,53.0,52.9
+145126,2025-07-15,3:30pm,CAD,CPI m/m,0.1%,0.1%,0.6%
+145158,2025-07-15,All Day,CAD,Median CPI y/y,3.1%,3.0%,3.0%
+145159,2025-07-15,All Day,CAD,Trimmed CPI y/y,3.0%,3.0%,3.0%
+142661,2025-07-15,All Day,USD,Core CPI m/m,0.2%,0.3%,0.1%
+142637,2025-07-15,All Day,USD,CPI m/m,0.3%,0.3%,0.1%
+142649,2025-07-15,All Day,USD,CPI y/y,2.7%,2.6%,2.4%
+146310,2025-07-15,11:00pm,GBP,BOE Gov Bailey Speaks,,,
+143603,2025-07-16,9:00am,GBP,CPI y/y,3.6%,3.4%,3.4%
+142625,2025-07-16,3:30pm,USD,Core PPI m/m,0.0%,0.2%,0.4%
+142613,2025-07-16,All Day,USD,PPI m/m,0.0%,0.2%,0.3%
+144162,2025-07-17,4:30am,AUD,Employment Change,2.0K,21.0K,-1.1K
+144174,2025-07-17,All Day,AUD,Unemployment Rate,4.3%,4.1%,4.1%
+142353,2025-07-17,All Day,USD,Core Retail Sales m/m,0.5%,0.3%,-0.2%
+142339,2025-07-17,All Day,USD,Retail Sales m/m,0.6%,0.1%,-0.9%
+141458,2025-07-17,All Day,USD,Unemployment Claims,221K,233K,228K
+145304,2025-07-20,All Day,JPY,Upper House Elections,,,
+141340,2025-07-08,7:30am,AUD,Cash Rate,3.85%,3.60%,3.85%
+141348,2025-07-08,All Day,AUD,RBA Rate Statement,,,
+141356,2025-07-08,8:30am,AUD,RBA Press Conference,,,
+141367,2025-07-09,5:00am,NZD,Official Cash Rate,3.25%,3.25%,3.25%
+141374,2025-07-09,All Day,NZD,RBNZ Rate Statement,,,
+146309,2025-07-09,1:00pm,GBP,BOE Gov Bailey Speaks,,,
+141239,2025-07-09,9:00pm,USD,FOMC Meeting Minutes,,,
+141457,2025-07-10,3:30pm,USD,Unemployment Claims,227K,236K,232K
+143725,2025-07-11,All Day,GBP,GDP m/m,-0.1%,0.1%,-0.3%
+144974,2025-07-11,3:30pm,CAD,Employment Change,83.1K,0.9K,8.8K
+144986,2025-07-11,All Day,CAD,Unemployment Rate,6.9%,7.1%,7.0%
+140650,2025-06-30,All Day,CNY,Manufacturing PMI,49.7,49.6,49.5
+146178,2025-07-01,All Day,GBP,BOE Gov Bailey Speaks,,,
+146181,2025-07-01,All Day,JPY,BOJ Gov Ueda Speaks,,,
+146180,2025-07-01,All Day,USD,Fed Chair Powell Speaks,,,
+141140,2025-07-01,5:00pm,USD,ISM Manufacturing PMI,49.0,48.8,48.5
+143897,2025-07-01,All Day,USD,JOLTS Job Openings,7.77M,7.32M,7.40M
+142725,2025-07-02,3:15pm,USD,ADP Non-Farm Employment Change,-33K,99K,29K
+140734,2025-07-03,9:30am,CHF,CPI m/m,0.2%,0.1%,0.1%
+146198,2025-07-03,3:20pm,GBP,BOE Gov Bailey Speaks,,,
+142595,2025-07-03,All Day,USD,Average Hourly Earnings m/m,0.2%,0.3%,0.4%
+142571,2025-07-03,All Day,USD,Non-Farm Employment Change,147K,111K,144K
+142583,2025-07-03,All Day,USD,Unemployment Rate,4.1%,4.3%,4.2%
+141164,2025-07-03,5:00pm,USD,ISM Services PMI,50.8,50.8,49.9
+141059,2025-06-23,10:15am,EUR,French Flash Manufacturing PMI,47.8,49.8,49.8
+141056,2025-06-23,All Day,EUR,French Flash Services PMI,48.7,49.2,48.9
+142189,2025-06-23,10:30am,EUR,German Flash Manufacturing PMI,49.0,48.9,48.3
+142190,2025-06-23,All Day,EUR,German Flash Services PMI,49.4,47.8,47.1
+142191,2025-06-23,11:30am,GBP,Flash Manufacturing PMI,47.7,46.9,46.4
+142192,2025-06-23,All Day,GBP,Flash Services PMI,51.3,51.2,50.9
+143932,2025-06-23,4:45pm,USD,Flash Manufacturing PMI,52.0,51.1,52.0
+143944,2025-06-23,All Day,USD,Flash Services PMI,53.1,52.9,53.7
+146169,2025-06-24,All Day,GBP,BOE Gov Bailey Speaks,,,
+145125,2025-06-24,3:30pm,CAD,CPI m/m,0.6%,0.5%,-0.1%
+145154,2025-06-24,All Day,CAD,Median CPI y/y,3.0%,3.0%,3.1%
+145155,2025-06-24,All Day,CAD,Trimmed CPI y/y,3.0%,3.0%,3.1%
+146153,2025-06-24,5:00pm,GBP,BOE Gov Bailey Speaks,,,
+146151,2025-06-24,All Day,USD,Fed Chair Powell Testifies,,,
+144093,2025-06-25,4:30am,AUD,CPI y/y,2.1%,2.3%,2.4%
+146152,2025-06-25,5:00pm,USD,Fed Chair Powell Testifies,,,
+146156,2025-06-26,2:00pm,GBP,BOE Gov Bailey Speaks,,,
+142550,2025-06-26,3:30pm,USD,Final GDP q/q,-0.5%,-0.2%,-0.2%
+141455,2025-06-26,All Day,USD,Unemployment Claims,236K,244K,246K
+144961,2025-06-27,3:30pm,CAD,GDP m/m,-0.1%,0.0%,0.2%
+142510,2025-06-27,All Day,USD,Core PCE Price Index m/m,0.2%,0.1%,0.1%
+144307,2025-06-17,6:30am,JPY,BOJ Policy Rate,<0.50%,<0.50%,<0.50%
+144308,2025-06-17,All Day,JPY,Monetary Policy Statement,,,
+144306,2025-06-17,9:30am,JPY,BOJ Press Conference,,,
+142350,2025-06-17,All Day,USD,Core Retail Sales m/m,-0.3%,0.2%,0.0%
+142338,2025-06-17,All Day,USD,Retail Sales m/m,-0.9%,-0.5%,-0.1%
+143596,2025-06-18,9:00am,GBP,CPI y/y,3.4%,3.3%,3.5%
+141454,2025-06-18,3:30pm,USD,Unemployment Claims,245K,246K,250K
+146134,2025-06-18,6:15pm,CAD,BOC Gov Macklem Speaks,,,
+141210,2025-06-18,9:00pm,USD,Federal Funds Rate,4.50%,4.50%,4.50%
+141232,2025-06-18,All Day,USD,FOMC Economic Projections,,,
+141218,2025-06-18,All Day,USD,FOMC Statement,,,
+141226,2025-06-18,9:30pm,USD,FOMC Press Conference,,,
+144812,2025-06-19,1:45am,NZD,GDP q/q,0.8%,0.7%,0.5%
+144161,2025-06-19,4:30am,AUD,Employment Change,-2.5K,20.6K,87.6K
+144173,2025-06-19,All Day,AUD,Unemployment Rate,4.1%,4.1%,4.1%
+140837,2025-06-19,10:30am,CHF,SNB Monetary Policy Assessment,,,
+140836,2025-06-19,All Day,CHF,SNB Policy Rate,0.00%,0.00%,0.25%
+140838,2025-06-19,11:00am,CHF,SNB Press Conference,,,
+143355,2025-06-19,2:00pm,GBP,Monetary Policy Summary,,,
+143354,2025-06-19,All Day,GBP,MPC Official Bank Rate Votes,0-3-6,0-2-7,0-7-2
+143353,2025-06-19,All Day,GBP,Official Bank Rate,4.25%,4.25%,4.25%
+143669,2025-06-20,All Day,GBP,Retail Sales m/m,-2.7%,-0.5%,1.3%
+146139,2025-06-20,9:40am,JPY,BOJ Gov Ueda Speaks,,,
+146167,2025-06-22,5:00am,USD,President Trump Speaks,,,
+142660,2025-06-11,All Day,USD,Core CPI m/m,0.1%,0.3%,0.2%
+142636,2025-06-11,All Day,USD,CPI m/m,0.1%,0.2%,0.2%
+142648,2025-06-11,All Day,USD,CPI y/y,2.4%,2.5%,2.3%
+143719,2025-06-12,9:00am,GBP,GDP m/m,-0.3%,-0.1%,0.2%
+142624,2025-06-12,3:30pm,USD,Core PPI m/m,0.1%,0.3%,-0.2%
+142612,2025-06-12,All Day,USD,PPI m/m,0.1%,0.2%,-0.2%
+141453,2025-06-12,All Day,USD,Unemployment Claims,248K,242K,248K
+141266,2025-06-13,5:00pm,USD,Prelim UoM Consumer Sentiment,60.5,53.5,52.2
+141265,2025-06-13,All Day,USD,Prelim UoM Inflation Expectations,5.1%,,6.6%
+141139,2025-06-02,5:00pm,USD,ISM Manufacturing PMI,48.5,49.3,48.7
+146099,2025-06-02,All Day,USD,Fed Chair Powell Speaks,,,
+140733,2025-06-03,9:30am,CHF,CPI m/m,0.1%,0.1%,0.0%
+146102,2025-06-03,10:50am,JPY,BOJ Gov Ueda Speaks,,,
+143896,2025-06-03,5:00pm,USD,JOLTS Job Openings,7.39M,7.11M,7.20M
+141618,2025-06-04,4:30am,AUD,GDP q/q,0.2%,0.4%,0.6%
+142724,2025-06-04,3:15pm,USD,ADP Non-Farm Employment Change,37K,111K,60K
+141401,2025-06-04,4:45pm,CAD,BOC Rate Statement,,,
+141389,2025-06-04,All Day,CAD,Overnight Rate,2.75%,2.75%,2.75%
+141170,2025-06-04,5:00pm,USD,ISM Services PMI,49.9,52.0,51.6
+141411,2025-06-04,5:30pm,CAD,BOC Press Conference,,,
+142933,2025-06-05,3:15pm,EUR,Main Refinancing Rate,2.15%,2.15%,2.40%
+142934,2025-06-05,All Day,EUR,Monetary Policy Statement,,,
+141452,2025-06-05,All Day,USD,Unemployment Claims,247K,236K,239K
+142932,2025-06-05,3:45pm,EUR,ECB Press Conference,,,
+144973,2025-06-06,3:30pm,CAD,Employment Change,8.8K,-11.9K,7.4K
+144985,2025-06-06,All Day,CAD,Unemployment Rate,7.0%,7.0%,6.9%
+142594,2025-06-06,All Day,USD,Average Hourly Earnings m/m,0.4%,0.3%,0.2%
+142570,2025-06-06,All Day,USD,Non-Farm Employment Change,139K,126K,147K
+142582,2025-06-06,All Day,USD,Unemployment Rate,4.2%,4.2%,4.2%
