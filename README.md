@@ -1,5 +1,5 @@
 # SadettinEr_DSA210_FallProject
-News and Their Impacts on Crypto Currencies
+News and Their Impacts on Forex, Commodities, and Crypto Currencies
 This project aims to analyze the short-term impact of crypto-related news on cryptocurrency prices.
 Specifically, it investigates how market-moving news affects price changes within 20 seconds after the news is published.
 The study will focus on major cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), and Solana (SOL) over the past one year.
