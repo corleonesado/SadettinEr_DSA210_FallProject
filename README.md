@@ -7,8 +7,8 @@ The goal is to identify whether positive or negative sentiment in news headlines
 
 Data Sources
 1-OHLCV Data
-I am planning to collect market datas from open source APIs like Binance, Bybit, and OKX.
+I am planning to collect market datas from Yahoo Finance and open source APIs like Binance, Bybit, and OKX.
 
 2-News Data 
-The most influential crypto-related news is often first shared through Telegram channels such as Infinity Hedge, Phoenix News, and Tree News.
+The most influential macro economical news are firstly shared on Forex Factory, and crypto-related news is often first shared through Telegram channels such as Infinity Hedge, Phoenix News, and Tree News.
 I plan to collect timestamped news data from these channels and process the text to extract sentiment and key entities like coin names, event types.
