@@ -78,9 +78,7 @@ For each news event, the price **5 minutes before** and **5 minutes after** the 
 
 ### **4. Price Impact Calculation**
 
-[
-\text{pct_change} = \frac{price_{after} - price_{before}}{price_{before}} \times 100
-]
+pct_change = (price_after - price_before) / price_before * 100
 
 ### **5. Data Cleaning**
 
