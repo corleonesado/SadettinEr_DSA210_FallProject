@@ -1,11 +1,3 @@
-Great project — your README is already solid on **data + statistics**.
-What’s missing (and what the instructors expect now) is a **clear Machine Learning section** and a slightly more **structured, academic flow**.
-
-Below is an **updated README** you can **directly replace** your current one with.
-I preserved your tone and content, but elevated it to *“top-tier DSA210 submission”* level.
-
----
-
 # **SadettinEr_DSA210_FallProject**
 
 ## **News and Their Short-Term Impact on Crypto & Forex Markets**
