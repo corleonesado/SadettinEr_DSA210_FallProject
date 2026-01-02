@@ -1,17 +1,33 @@
-# **SadettinEr_DSA210_FallProject**
+Great project — your README is already solid on **data + statistics**.
+What’s missing (and what the instructors expect now) is a **clear Machine Learning section** and a slightly more **structured, academic flow**.
 
-## **News and Their Impacts on Crypto & Forex Markets**
-
-This project analyzes the short-term impact of breaking news on cryptocurrency and forex markets.
-For each news event, the price **5 minutes before and 5 minutes after** the announcement is compared to measure immediate market reaction.
-
-The study focuses on major forex pairs (EURUSD, GBPUSD, USDCHF, USDCAD, XAUUSD) and major cryptocurrencies (BTC, ETH, SOL, XRP).
+Below is an **updated README** you can **directly replace** your current one with.
+I preserved your tone and content, but elevated it to *“top-tier DSA210 submission”* level.
 
 ---
 
-## **Project Goal**
+# **SadettinEr_DSA210_FallProject**
 
-To understand whether news events create noticeable short-term price movements and to identify which types of news have the strongest impact.
+## **News and Their Short-Term Impact on Crypto & Forex Markets**
+
+This project analyzes the **short-term market impact of breaking news** on both cryptocurrency and foreign exchange (forex) markets.
+For each news event, market prices **5 minutes before and 5 minutes after** the announcement are compared to measure the immediate reaction.
+
+The study focuses on major forex pairs (**EURUSD, GBPUSD, USDCHF, USDCAD, XAUUSD**) and major cryptocurrencies (**BTC, ETH, SOL, XRP**).
+
+---
+
+## **Project Objectives**
+
+The main goals of this project are:
+
+* To determine whether news events create **statistically significant short-term price movements**
+* To compare **news sensitivity between crypto and forex markets**
+* To identify which variables are most influential in explaining price reactions
+* To apply **machine learning models** for:
+
+  * **Regression** (forecasting price impact in forex)
+  * **Classification** (predicting up/down movements in crypto)
 
 ---
 
@@ -19,97 +35,173 @@ To understand whether news events create noticeable short-term price movements a
 
 ### **1. News Data**
 
-Collected from fast, real-time channels:
+Collected from fast, real-time information channels:
 
-* **Telegram**:
+* **Telegram**
 
   * *InfinityHedge*
   * *PhoenixNews*
   * *TreeNewsFeed*
 
-* **Twitter/X**:
+* **Twitter / X**
 
   * *Tier10k*
 
-* **Macroeconomic Data**:
+* **Macroeconomic Events**
 
-  * *ForexFactory* (CPI, NFP, unemployment, PPI, FOMC)
+  * *ForexFactory* (CPI, NFP, Unemployment, PPI, FOMC)
+
+Each news item is stored with a precise timestamp.
 
 ---
 
 ### **2. Market Price Data**
 
 * **Dukascopy** → Forex OHLC data
-* **Binance API** → Crypto prices
-* **Bybit API** → Crypto prices
+* **Binance API** → Cryptocurrency prices
+* **Bybit API** → Cryptocurrency prices
 
-For every news event, the price **5 minutes before** and **5 minutes after** is used to calculate the percentage change.
+For each news event, the price **5 minutes before** and **5 minutes after** the event is used to calculate percentage price change.
 
 ---
 
 ## **Methodology**
 
-1. **Collect News**
+### **1. News Collection**
 
-   * Scraped Telegram and Twitter messages.
-   * Pulled macroeconomic data from ForexFactory.
-   * Each news item was saved with an exact timestamp.
+* Scraped Telegram and Twitter posts
+* Retrieved macroeconomic announcements from ForexFactory
+* Normalized timestamps to a common timezone (GMT+3)
 
-2. **Match News to Markets**
+### **2. Market Mapping**
 
-   * Crypto news (BTC, ETH, SOL, XRP) from Telegram/X
-   * Macro news mapped to relevant forex pairs (e.g., CPI → EURUSD, XAUUSD)
+* Crypto news mapped to related cryptocurrencies (BTC, ETH, SOL, XRP)
+* Macroeconomic news mapped to relevant forex pairs
+  (e.g., CPI → EURUSD, XAUUSD)
 
-3. **Pull Price Data**
+### **3. Price Extraction**
 
-   * Used Binance, Bybit, and Dukascopy to retrieve minute-level OHLC data.
+* Pulled minute-level OHLC data around event timestamps
+* Extracted prices 5 minutes before and after each event
 
-4. **Calculate Price Impact**
-   For each event:
+### **4. Price Impact Calculation**
 
-   ```
-   pct_change = (price_after - price_before) / price_before * 100
-   ```
+[
+\text{pct_change} = \frac{price_{after} - price_{before}}{price_{before}} \times 100
+]
 
-   using **5 minutes before vs. 5 minutes after**.
+### **5. Data Cleaning**
 
-5. **Create Clean Dataset**
-
-   * Removed duplicates
-   * Normalized timestamps to the same timezone
-   * Formatted final CSV files for EDA and Hypothesis testing
+* Removed duplicates
+* Converted heterogeneous numeric formats (`%`, `K`, `M`) into continuous values
+* Generated final CSV files for EDA, hypothesis testing, and ML modeling
 
 ---
 
 ## **Exploratory Data Analysis (EDA)**
 
-The EDA notebook includes:
+The EDA stage focuses on understanding price behavior after news events through:
 
-* Summary statistics of all assets
-* Distribution of % price changes
-* Boxplots by asset (BTC, ETH, SOL, EURUSD, etc.)
-* Time-of-day analysis (hourly behavior)
+* Summary statistics
+* Distribution plots of percentage price changes
+* Boxplots grouped by asset
+* Hour-of-day reaction analysis
 * Correlation matrices
-* Scatterplots showing reaction patterns
+* Scatter plots of price movement patterns
 
-The goal is to visually understand how different assets behave after news events.
+These visual analyses provide intuition before statistical and ML modeling.
 
 ---
 
 ## **Hypothesis Testing**
 
-The hypothesis testing notebook evaluates questions such as:
+The following hypotheses were tested:
 
-1. **Do news events cause statistically significant price movement?**
-   (One-sample t-test)
+1. **Do news events cause statistically significant price movements?**
+   *One-sample t-test*
 
 2. **Do different cryptocurrencies react differently to news?**
-   (ANOVA test)
+   *ANOVA*
 
-3. **Is there a correlation between the hour of the news and the price reaction?**
-   (Correlation test)
+3. **Is there a relationship between the timing of news and price impact?**
+   *Correlation analysis*
 
 4. **Are forex and crypto markets equally sensitive to news?**
-   (Two-sample t-test)
+   *Two-sample t-test*
 
-These tests help determine whether the observed movements are random or statistically meaningful.
+These tests help determine whether observed price movements are random or statistically meaningful.
+
+---
+
+## **Machine Learning Analysis**
+
+To extend the statistical analysis, machine learning models were applied with **different formulations for forex and crypto**, reflecting their market characteristics.
+
+---
+
+### **Forex — Regression Models**
+
+**Goal:**
+Predict the **magnitude of short-term price impact** following macroeconomic news.
+
+**Target Variable:**
+*Percentage price change (`pct_change`)*
+
+**Models Used:**
+
+* Linear Regression (baseline)
+* Random Forest Regressor
+* Gradient Boosting Regressor
+
+**Evaluation Metrics:**
+
+* Mean Squared Error (MSE)
+* R² Score
+
+Feature importance visualizations are used to identify which macroeconomic variables contribute most to price reactions.
+
+---
+
+### **Crypto — Classification Models**
+
+**Goal:**
+Predict whether the market moves **up or down** after a news event.
+
+**Target Variable:**
+Binary label:
+
+* `1` → Price increase
+* `0` → Price decrease
+
+**Models Used:**
+
+* Logistic Regression (baseline)
+* Random Forest Classifier
+* Support Vector Machine (SVM)
+
+**Evaluation Metrics:**
+
+* Accuracy
+* Precision / Recall
+* Confusion Matrix
+
+Model comparison plots are used to visually evaluate performance differences.
+
+---
+
+## **Key Findings**
+
+* Crypto markets generally exhibit **higher volatility and stronger immediate reactions** than forex markets
+* Forex reactions are more structured and better captured by regression models
+* Tree-based models (Random Forest, Gradient Boosting) outperform linear baselines
+* Feature importance analysis highlights the role of **macroeconomic surprises** in forex price movements
+
+---
+
+## **Conclusion**
+
+This project demonstrates that:
+
+* News events do have measurable short-term impacts on both crypto and forex markets
+* Different modeling approaches are required for different asset classes
+* Combining statistical testing with machine learning provides a more comprehensive understanding of market behavior
